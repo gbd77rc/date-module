@@ -1,0 +1,16 @@
+{
+    "name": "date-module",
+    "version": "0.0.1",
+    "author": "Richard Clarke",
+    "main": "index.js",
+    "license": "MIT",
+    "homepage": "https://github.com/gbd77rc/date-module",
+    "script": "lib/date-format.js",
+    "dependencies": {
+    },
+    "devDependencies": {
+        "mocha": "^1.21.3",
+        "should": "^4.0.4"
+    },
+    "description": "This module will allow methods to modify the existing date or create specific formats"
+}
