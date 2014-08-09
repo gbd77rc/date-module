@@ -2,10 +2,18 @@
     "name": "date-module",
     "version": "0.0.1",
     "author": "Richard Clarke",
-    "main": "index.js",
+    "email": "richard-clarke@hotmail.com",
     "license": "MIT",
     "homepage": "https://github.com/gbd77rc/date-module",
-    "script": "lib/date-format.js",
+    "main": "lib/date-format.js",
+    "repository" : {
+        "type" : "git",
+        "url" : "https://github.com/gbd77rc/date-module"
+    },
+    "directories": {
+        "lib": "./lib",
+        "test": "./test"
+    },
     "dependencies": {
     },
     "devDependencies": {
