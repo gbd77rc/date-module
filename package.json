@@ -19,7 +19,8 @@
   "dependencies": {},
   "devDependencies": {
     "mocha": "^1.21.3",
-    "should": "^4.0.4"
+    "should": "^4.0.4",
+    "supertest": "^0.13.0"
   },
   "description": "This module will allow methods to modify the existing date or create specific formats",
   "readme": "#Date Module\r\nThe idea behind this module to allow specific date method to be shared across multiple node.js projects.\r\n\r\nIt will only be stored on my local copy of GitHub for now.\r\n",
