@@ -1,16 +1,16 @@
 {
   "name": "date-module",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "author": {
     "name": "Richard Clarke"
   },
   "email": "richard-clarke@hotmail.com",
-  "license": "MIT",
-  "homepage": "https://github.com/gbd77rc/date-module",
+  "license": "",
+  "homepage": "https://github.com/E-Tale/pi-worker-module",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gbd77rc/date-module"
+    "url": "https://github.com/E-Tale/pi-worker-module"
   },
   "directories": {
     "lib": "./lib",
@@ -26,10 +26,6 @@
   "readme": "#Date Module\r\nThe idea behind this module to allow specific date method to be shared across multiple node.js projects.\r\n\r\nIt will only be stored on my local copy of GitHub for now.\r\n",
   "readmeFilename": "README.md",
   "bugs": {
-    "url": "https://github.com/gbd77rc/date-module/issues"
-  },
-  "_id": "date-module@0.0.2",
-  "_shasum": "3f1fea692e709d311568e9a418de83d01d69514f",
-  "_resolved": "git+https://github.com/gbd77rc/date-module.git#665d3f6f7a7acbd5012115fd4c8df3d223ecc6bd",
-  "_from": "git+https://github.com/gbd77rc/date-module.git"
+    "url": "https://github.com/E-Tale/pi-worker-module"
+  }
 }
